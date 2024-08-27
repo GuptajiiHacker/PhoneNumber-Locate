@@ -1,5 +1,3 @@
-- Get Location of Mobile Number Source Code -
-
 import phonenumbers
 from phonenumbers import timezone
 from phonenumbers import geocoder
